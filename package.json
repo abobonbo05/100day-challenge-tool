@@ -1,0 +1,33 @@
+{
+  "name": "100day-challenge-tool",
+  "version": "1.0.0",
+  "description": "Google Apps Script tool for managing 100-day challenges in Google Spreadsheet",
+  "main": "ツール.gs",
+  "scripts": {
+    "push": "clasp push",
+    "pull": "clasp pull",
+    "deploy": "clasp deploy",
+    "logs": "clasp logs"
+  },
+  "keywords": [
+    "google-apps-script",
+    "spreadsheet",
+    "productivity",
+    "goal-tracking",
+    "100-day-challenge"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@google/clasp": "^2.4.2",
+    "@types/google-apps-script": "^1.0.83"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/100day-challenge-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/100day-challenge-tool/issues"
+  },
+  "homepage": "https://github.com/your-username/100day-challenge-tool#readme"
+}
