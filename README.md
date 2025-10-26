@@ -2,6 +2,8 @@
 
 Google Spreadsheetを使用した100日間の目標管理ツールです。
 
+[![GitHub](https://img.shields.io/badge/GitHub-100day--challenge--tool-blue)](https://github.com/abobonbo05/100day-challenge-tool)
+
 ## 概要
 
 このツールは、100日間のチャレンジを管理するためのGoogle Apps Scriptです。自動的にスプレッドシートに以下を作成します：
